@@ -1,0 +1,18 @@
+body {
+    background-image: url('Img/Fondo-MayorMenor.jpg');
+    font-family: 'Bebas Neue', cursive;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+#lblResultado {
+    font-size: 75px;
+    color: rgb(0, 0, 0);
+    text-shadow: 5px 5px 5px blanchedalmond;
+}
+
+#colorBoton {
+    font-size: 30px;
+}
